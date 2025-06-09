@@ -1,0 +1,6 @@
+---
+- name: resume-playbook
+  hosts: webservers
+  become: yes
+  roles:
+    - resume-role

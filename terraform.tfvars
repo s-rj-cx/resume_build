@@ -1,0 +1,7 @@
+region = "us-east-1"
+subnet-id = "subnet-05113e59cbfe26afa"
+ami = "ami-084568db4383264d4"
+instance-type = "t2.micro"
+key = "demokey"
+security-group-id = "sg-0f399f27a1d1afb27"
+private-ip = "10.0.2.50"
